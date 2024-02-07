@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Quantitative Methods in Social Science.
 - 💞️ I’m looking to collaborate on Data Analysis
-- 📫 Please reach me via email: elainezhou0110@gmail.com
+- 📫 Please reach me via email: elainezhou0110@gmail.com or zz2825@columbia.edu
 
 <!---
 ZhanyiZhou/ZhanyiZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
